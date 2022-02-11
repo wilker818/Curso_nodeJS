@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wilker818/Curso_nodeJS/issues"
   },
-  "homepage": "https://github.com/wilker818/Curso_nodeJS#readme"
+  "homepage": "https://github.com/wilker818/Curso_nodeJS#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
