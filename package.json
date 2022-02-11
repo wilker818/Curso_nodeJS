@@ -1,0 +1,19 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de noticias",
+  "main": "noticias-v2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilker818/Curso_nodeJS.git"
+  },
+  "author": "Wilker Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilker818/Curso_nodeJS/issues"
+  },
+  "homepage": "https://github.com/wilker818/Curso_nodeJS#readme"
+}
